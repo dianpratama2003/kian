@@ -1,0 +1,17 @@
+.text{
+  color: blueviolet;
+  font-family: 'Roboto';
+}
+.subrekbutt{
+background-color: rgb(255, 0, 0);
+color: rgb(255, 255, 255);
+border: none;
+border-radius: 2px;
+padding: 7px;
+}
+.joinbut{
+background-color: white;
+border-color: blue;
+border-width: 1px;
+color: blue;
+}
